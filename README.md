@@ -8,5 +8,5 @@ Some Responsive Test Code Here
  * 飞长
  * 冰琼
 
-Hei Gay, Come on!
+Hei Guy, Come on!
 
